@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: AdamWakesUp
+  m_EditorClassIdentifier: 
+  npcName: 
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue: []
+  playerDialogue:
+  - I had a nightmare about my parents disappearing. It was at the grocery store,
+    just like yesterday.
+  - "Only this time, they were not outside. They were nowhere in sight, and I couldn\u2019t
+    find them anywhere."
+  - I usually have nightmares about something bad happening to my parents.
+  - Sometimes I have nightmares about something bad happening to my parents.
+  - " I don\u2019t usually have nightmares about them like this."
+  - While I was outside looking for them, something tried to grab me. I ran as fast
+    as I could...but it caught me in the end.
+  - I usually have nightmares about something bad happening to me.
+  - Sometimes I have nightmares like that.
+  - "I don\u2019t usually have nightmares like that."
+  - Thankfully it was just a dream...

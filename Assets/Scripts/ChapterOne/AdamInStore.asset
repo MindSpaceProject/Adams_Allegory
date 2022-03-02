@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: AdamInStore
+  m_EditorClassIdentifier: 
+  npcName: 
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue: []
+  playerDialogue:
+  - Finished! Wait, I don't see my parents anywhere. Mom....Dad?
+  - Adam checked the rest of the store for his parents, but could not find them.
+  - "This is weird\u2026where are they?"
+  - "Did they leave me behind? I\u2019m by myself now\u2026"
+  - "Usually, I don\u2019t like being away from my family."
+  - "Sometimes I don\u2019t like being away from my family."
+  - "I\u2019m okay with being away from my family. But I wonder where they went."
+  - It seems like they just disappeared. Let me try calling Mom.
+  - "No response. Alright\u2026let\u2019s try Dad."
+  - "No response from him either?! I hope nothing bad has happened to them\u2026"
+  - I usually worry that something bad will happen to my parents
+  - Sometimes I worry that something bad will happen to them.
+  - "I don\u2019t normally worry about something bad happening to my parents."
+  - Should I talk to the store clerk? Or I could just wait a couple more minutes...
+  - Yes, talk to him!
+  - "No, I\u2019m too shy to talk to him!"
+  - ' *5 minutes go by* Hmm. I guess I could check outside and see if they''re out
+    there.'
