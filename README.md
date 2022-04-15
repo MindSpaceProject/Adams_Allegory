@@ -20,4 +20,8 @@ Because our development is done in Unity, we have decided to utlize Unity Collab
 
 ## Documentation
 
+## Game Link
+This is the link to the installer file for the finished game
+https://drive.google.com/file/d/173l5KzLk1D7s78o9D6FUhnQoA3E60bDg/view?usp=sharing
+
 ## Future Items
