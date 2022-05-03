@@ -36,7 +36,11 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
+<<<<<<< HEAD
     addColliders: 1
+=======
+    addColliders: 0
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
     importVisibility: 1

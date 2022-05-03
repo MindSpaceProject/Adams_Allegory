@@ -55,7 +55,10 @@ public class AdamRoomDialogue : MonoBehaviour {
             capsule.SetActive(false);
             npcCharacter.SetActive(false);
             playerCharacter.SetActive(false);
+<<<<<<< HEAD
             cameraChange = false;
+=======
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
         } else {
             cam1.SetActive(true);
             cam2.SetActive(false);
@@ -92,6 +95,10 @@ public class AdamRoomDialogue : MonoBehaviour {
                 clearAnxietyQuestions();
                 playerResponse.text = npc.playerDialogue[4];
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
                 if (Input.GetKeyDown(KeyCode.Return)) {
                     curResponseTrackerPlayer++;
                     curResponseTrackerNPC++;

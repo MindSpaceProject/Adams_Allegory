@@ -171,8 +171,11 @@ public class AdamWakesUp : MonoBehaviour {
         isTalking = false;
         dialogueUI.SetActive(false);
         Debug.Log("Final Chapter Score: " + AdamRoomDialogue.chapterScore);
+<<<<<<< HEAD
         ChapterTransition.chapter = 2;
         SceneManager.LoadScene("ChapterTransition");
+=======
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
     }
 
     public static void showHidePanel(GameObject gameObject) {

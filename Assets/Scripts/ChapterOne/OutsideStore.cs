@@ -241,7 +241,11 @@ public class OutsideStore : MonoBehaviour {
     void EndDialogue() {
         isTalking = false;
         dialogueUI.SetActive(false);
+<<<<<<< HEAD
         SceneManager.LoadScene("LaterThatNight");
+=======
+        SceneManager.LoadScene("AdamRoom"); // Change this to nightmare scene with minigame later
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
         Debug.Log("Current Chapter Score: " + AdamRoomDialogue.chapterScore);
     }
 

@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
+<<<<<<< HEAD
     public GameObject gameGuide;
     public GameObject responseGuide;
     public GameObject mainMenu;
@@ -30,12 +31,18 @@ public class MainMenu : MonoBehaviour
         ChapterTransition.chapter = 1;
         SceneManager.LoadScene("Prelude");
      //   SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);// this can load the scene number 1 (game)//SceneManager.GetActiveScene().buildIndex +1
+=======
+    public void PlayGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);// this can load the scene number 1 (game)//SceneManager.GetActiveScene().buildIndex +1
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
     }
     public void AboutGame()
     {
 
         // go to about page
     }
+<<<<<<< HEAD
 
     public void HelpGame()
     {
@@ -47,4 +54,6 @@ public class MainMenu : MonoBehaviour
     {
         Application.Quit();
     }
+=======
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
 }

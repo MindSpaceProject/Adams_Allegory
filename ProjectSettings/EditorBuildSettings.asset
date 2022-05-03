@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b8b708c20510c834ebb4d481103684ab
+  - enabled: 1
+    path: Assets/Scenes/AdamRoom.unity
+    guid: b2a89067ce0e5414bbb948c01d06d777
+  - enabled: 1
+    path: Assets/Scenes/Neighborhood.unity
+    guid: d50bb9b66830645499db1a01964af14e
+  - enabled: 1
+    path: Assets/Scenes/EndDemo.unity
+    guid: 7355d2f8af0509642b8b31838bc99412
+  - enabled: 1
+    path: Assets/Scenes/Transition.unity
+    guid: b505b4572abd0e346a6b56664b96cf73
+  - enabled: 1
+    path: Assets/Scenes/InsideGroceryStore.unity
+    guid: 6a93f05cc8247ae4a844c64dc3c6b8e2
+  - enabled: 1
+    path: Assets/Scenes/GroceryStore.unity
+    guid: f7ab671e412e78c4b9bb12d5b439945d
   m_configObjects: {}

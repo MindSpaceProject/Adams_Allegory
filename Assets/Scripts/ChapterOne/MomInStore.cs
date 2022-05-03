@@ -10,7 +10,11 @@ public class MomInStore : MonoBehaviour {
     float curResponseTrackerNPC = 0;
     float curResponseTrackerPlayer = 0;
 
+<<<<<<< HEAD
     // UI Game Objects
+=======
+    // UI Game Objectsf
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
     public GameObject dialogueUI;
     public GameObject npcPanel;
     public GameObject playerPanel;
@@ -20,14 +24,20 @@ public class MomInStore : MonoBehaviour {
     public GameObject playerCharacter;
     public GameObject playerCharacter1;
     public GameObject playerCharacter2;
+<<<<<<< HEAD
     public GameObject adam;
+=======
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
     public GameObject playerPanel1;
     public GameObject playerPanel2;
     public GameObject playerPanel3;
     public GameObject playerPanel4;
     public GameObject playerPanel5;
     public GameObject playableCharacter;    //the adam that the player can play with
+<<<<<<< HEAD
     public GameObject tutorialScreen;
+=======
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
 
 
     // Cameras
@@ -61,14 +71,20 @@ public class MomInStore : MonoBehaviour {
         playerPanel4.SetActive(false);
         playerPanel5.SetActive(false);
         playableCharacter.SetActive(false);
+<<<<<<< HEAD
         adam.SetActive(false);
+=======
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
         playerResponse1.text = "";
         playerResponse2.text = "";
         playerResponse3.text = "";
         playerResponse4.text = "";
         playerResponse5.text = "";
         dialogueUI.SetActive(false);
+<<<<<<< HEAD
         tutorialScreen.SetActive(false);
+=======
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
     }
 
     void OnMouseOver() {
@@ -138,11 +154,14 @@ public class MomInStore : MonoBehaviour {
         npcDialogueText.text = npc.dialogue[0];
     }
 
+<<<<<<< HEAD
     public void onClickStartGame(){
         tutorialScreen.SetActive(false);
         playableCharacter.SetActive(true);
     }
 
+=======
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
     void EndDialogue() {
         capsule.SetActive(false);
         capsule1.SetActive(false);
@@ -150,12 +169,19 @@ public class MomInStore : MonoBehaviour {
         dialogueUI.SetActive(false);
         cam1.SetActive(true); //camera for shopping minigame
         cam2.SetActive(false); 
+<<<<<<< HEAD
         //playableCharacter.SetActive(true);
+=======
+        playableCharacter.SetActive(true);
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
         npcCharacter.SetActive(false);
         playerCharacter.SetActive(false);
         playerCharacter1.SetActive(false);
         playerCharacter2.SetActive(false);
+<<<<<<< HEAD
         tutorialScreen.SetActive(true);
+=======
+>>>>>>> f8d1914b4d75aebfa9aa5c3401a882091b087d54
     }
 
     public static void showHidePanel(GameObject gameObject) {
