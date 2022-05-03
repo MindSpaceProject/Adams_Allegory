@@ -18,7 +18,7 @@ We split the game into 5 main chapters, with each assessing a different childhoo
 * Chapter 6: Conclusion
 
 ## Unity Collaborate Contributions
-Because our development is done in Unity, we have decided to utlize Unity Collaborate to share our work with each other. We will provide screenshots of the collaboration history in a folder.
+Because our development is done in Unity, we have decided to utlize Unity Collaborate to share our work with each other. We will provide screenshots of the collaboration history in a folder. This Link takes you to the folder: https://drive.google.com/drive/folders/11rniOGvYWImKxZC4lxCNlv0OQeuRC8VQ?usp=sharing
 
 ## Game Installer Link
 Here is the link to the installer file for the finished game:
