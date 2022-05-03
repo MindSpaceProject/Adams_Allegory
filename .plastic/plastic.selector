@@ -1,0 +1,4 @@
+repository "AdamsAllegory@MindSpace@cloud"
+  path "/"
+    br "/main"
+    co "/main"

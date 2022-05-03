@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: TriggerThree
+  m_EditorClassIdentifier: 
+  npcName: 
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue: []
+  playerDialogue:
+  - "I\u2019m scared out of my mind right now\u2026I feel dizzy\u2026"
+  - "I usually feel dizzy when I\u2019m scared."
+  - "Sometimes I feel dizzy when I\u2019m scared."
+  - I never feel dizzy when I'm scared.
+  - "And I\u2019m sweating A LOT right now."
+  - I sweat a lot when I get scared
+  - Sometimes I sweat a lot when I get scared
+  - I don't really sweat when I get scared
+  - Let me try to call my Mom.
+  - Adams hand shakes too much and he drops his phone.
+  - Dang it! I cracked my phone.
+  - I always get shaky
+  - Sometimes I get shaky
+  - Why am I shaking so much right now?? I never get shaky.
+  - "What\u2019s happening\u2026I don\u2019t know what to do\u2026It feels like I
+    have no control over my actions right now."
+  - "It\u2019s like\u2026I\u2019m drowning and I can\u2019t think straight. Is this
+    real? Or am I dreaming\u2026"
+  - "Usually I feel like things aren\u2019t real when I get scared."
+  - "Sometimes I feel like things aren\u2019t real when I\u2019m scared.\r"
+  - "Everything still feels real, even though it\u2019s scary right now."
+  - "Could this be\u2026the end? Why is my vision getting black and fuzzy\u2026I
+    feel like I\u2019m passing out\u2026\r\n"
+  - "Usually, I feel like passing out when I\u2019m scared."
+  - "Sometimes I feel like passing out when I\u2019m scared."
+  - This NEVER happens!!
+  - " I feel like I\u2019m choking. And I have the urge to throw up but nothing is
+    coming out."
+  - "This is it\u2026\r\n"

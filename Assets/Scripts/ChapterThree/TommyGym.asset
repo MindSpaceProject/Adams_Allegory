@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: TommyGym
+  m_EditorClassIdentifier: 
+  npcName: Tommy
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - " Hey Adam! Looks like you\u2019ll be playing dodgeball on your first day of
+    school."
+  - Do you like playing sports?
+  - "I\u2019m sure everyone will go easy on you since it\u2019s your first day."
+  - Do you usually worry about how well you do things?
+  - Okay, okay I get it! Sheesh, do people ever tell you that you worry too much?
+  - "You\u2019ll be fine. Now c\u2019mon, let's get this game started! Show us what
+    you got!"
+  playerDialogue:
+  - "Yay\u2026dodgeball\u2026fun."
+  - Yeah
+  - Nope
+  - Depends on the sport
+  - I just hope I don't suck and get out the game quickly!
+  - Yes, I usually worry about how well I do things.
+  - "Sometimes\u2026"
+  - "No, I don\u2019t really worry about that."
+  - "But\u2026what if I\u2019m the first one out? What if I get pummeled by dodgeballs?
+    What if-"
+  - Yes, all the time.
+  - Sometimes
+  - Not at all.
+  - Alright...

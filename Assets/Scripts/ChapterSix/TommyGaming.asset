@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: TommyGaming
+  m_EditorClassIdentifier: 
+  npcName: Tommy
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - "Bro, this remote is broken. I keep pressing the block and it doesn\u2019t block.
+    That\u2019s the only reason why you're winning."
+  - "What\u2019s that smug look on your face Adam!? \r\n"
+  - Alright bro, see me next week and I'm gonna win EASILY.
+  playerDialogue:
+  - "Didn\u2019t you just get that a couple days ago? Can\u2019t imagine it broke
+    this quickly\u2026"
+  - Oh this look? It's the look of a superior gamer!
+  - "We\u2019ll see about that!"
+  - 'Last night, I told my parents about the panic attack I had. '
+  - They talked to me more about what a panic attack is, taught me some breathing
+    exercises for the future, and gave me some reassurance that I was going to be
+    okay.
+  - They also think that being around friends would be good for me today. Now I'm
+    at Tommy's place for our sleepover!
+  - 'When I first found out my family was moving, I was really worried. Having to
+    make new friends and just being in a new environment made me feel nervous. '
+  - "I wasn\u2019t sure what to expect. I wasn\u2019t sure if anyone would like me."
+  - "But Tommy, Stacy, my parents, Josh, and even Teddy helped set some of those
+    anxious thoughts to rest. They helped me realize that I\u2019m going to be okay."
+  - And you will be too. See ya later!

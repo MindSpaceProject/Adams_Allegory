@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: JoshDance
+  m_EditorClassIdentifier: 
+  npcName: Josh
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - Hey Adam, you just moved here last week right?
+  - Not at all! I just recognize everyone here but you, haha! So, how have you been
+    liking Jefferson Academy?
+  - "I feel you. I was the new kid once, so I understand what you\u2019re going through.
+    It feels weird trying to make new friends when everyone has already formed their
+    friend groups."
+  - "Do you get shy around people you don\u2019t know well?"
+  - Does it make you nervous too? Meeting new people?
+  - I was shy and nervous when I moved here. Definitely gave off new kid vibes for
+    a solid month. But after some time went by, I made some friends and was no longer
+    considered the new kid. So just hang in there, Adam.
+  - Have you made any friends here yet?
+  - You can include me in that count too if you want! We could hangout sometime for
+    sure.
+  - "Bet. Why don\u2019t you walk around the gym and try talking to new people?"
+  - ' Sounds good! Good luck!'
+  playerDialogue:
+  - "Hey Josh. My name is Adam. I\u2019m friends with Tommy."
+  - "Did I give off new kid vibes or something\u2026"
+  - "It\u2019s been okay. I\u2019ve just been slowly trying to navigate how to do
+    things here."
+  - "That\u2019s exactly how I\u2019m feeling!"
+  - Yes, I do
+  - "Sometimes\u2026"
+  - No, not at all
+  - Yeah.
+  - Sometimes...
+  - Nope
+  - "I\u2019ll take your word for it."
+  - Other than Tommy and Stacy, not really.
+  - That would be cool!
+  - "Yeah, I\u2019ll try that.\r\n"
+  - Thanks, see you later Josh!
+  - '*Thinking to himself* I guess I should try talking to some people here.'

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: Teacher
+  m_EditorClassIdentifier: 
+  npcName: Mrs. Thompson
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - "Adam! Nice to finally meet you. My name is Mrs. Thompson, and I\u2019ll be your
+    English and Homeroom teacher."
+  - I know how nervous the first day of school can be, especially when it comes to
+    making new friends.
+  - "Here\u2019s my advice: Don\u2019t worry about whether other people will like
+    you or not. Just be yourself."
+  - How are you feeling about today?
+  - When I was your age, I would always expect things to go wrong for me.
+  - "I just couldn\u2019t stop overthinking everything! I\u2019d always worry about
+    being as good as the other kids."
+  - "I\u2019d worry about mistakes I\u2019d make on school projects, with friends,
+    and just in life. "
+  - "I had to challenge my worries, and start asking myself, \u201CWhat if things
+    work out?\u201D and \u201CWhat if all my hard work pays off?\u201D And that simple
+    strategy of being hopeful has helped me so much."
+  - Do you ever worry about things working out for you?
+  - Adam, I want you to always feel comfortable coming to me or any of your teachers
+    for help if you feel like you need it.
+  - "You\u2019re very welcome. I look forward to getting to know you more this semester,
+    Adam. "
+  - "Why don\u2019t you try talking to the student in the classroom? Maybe you\u2019ll
+    make a new friend."
+  playerDialogue:
+  - "Hi, I\u2019m Adam. I just transferred here."
+  - Nice to meet you, Mrs. Thompson.
+  - "*Thinking to himself*  Hmmm\u2026."
+  - 'I usually worry about other people liking me. '
+  - Sometimes I worry about other people liking me.
+  - "I don\u2019t really worry about other people liking me."
+  - Honestly, I expect something to go wrong today.
+  - I'm feeling really confident about today!
+  - Ehhh, it's school.
+  - Why?
+  - "*Thinking to himself* Worrying about being as good as other kids\u2026"
+  - I worry about this all the time.
+  - Sometimes I worry about this.
+  - I never really worry about that.
+  - So what did you do about it?
+  - "That\u2019s nice to hear!"
+  - Yes, all the time.
+  - Sometimes
+  - "I don\u2019t really worry about that."
+  - Thank you, Mrs. Thompson.

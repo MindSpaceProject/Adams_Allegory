@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: AdamPlaysGame
+  m_EditorClassIdentifier: 
+  npcName: Mom
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - "That\u2019s enough video games, Adam. You know you have school tomorrow."
+  - How are you feeling about tomorrow?
+  - "Hmmm. Are you usually worried about going to school? Or is it because you\u2019re
+    at a new school?"
+  - "You will! I\u2019m sure Tommy can also introduce you to some people."
+  - "It\u2019s almost time for supper. You want to help me make dinner?"
+  - "Let\u2019s head to the kitchen."
+  playerDialogue:
+  - "Man, this Sunday is going by fast. And I have school tomorrow\u2026"
+  - "I\u2019m usually scared to go to school."
+  - Sometimes, I get scared to go to school.
+  - "I\u2019m never really scared about going to school."
+  - I wanna play a video game to ease my nerves though. I should go turn on my game
+    console.
+  - I know, I just wanted to squeeze a game in.
+  - "*Thinking to himself* She\u2019s always popping up out of nowhere\u2026"
+  - A little worried, honestly.
+  - "I\u2019m always worried about going to school."
+  - "Sometimes I\u2019m a little worried about going to school."
+  - "I\u2019m not usually worried about going to school."
+  - "But like you said, I\u2019ll be at a new school. I just hope I can make some
+    friends."
+  - Sure!

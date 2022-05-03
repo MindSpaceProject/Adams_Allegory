@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: AdamDance
+  m_EditorClassIdentifier: 
+  npcName: 
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue: []
+  playerDialogue:
+  - " That was nice. It\u2019s getting late, I should probably go and find Tommy."
+  - " Wait a second\u2026I don\u2019t see Tommy anywhere\u2026let me try texting
+    him."
+  - "Adam checks his phone and sees missed text from Tommy.\r"
+  - "\u201CHeading home now, I\u2019ll see you tomorrow at my place!\u201D\r"
+  - "Oh, I forgot to tell him that I wanted to walk home together.\r"
+  - "Hmm. I already told my Mom I would walk home. I guess I\u2019ll start heading
+    back now."

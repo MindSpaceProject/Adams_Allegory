@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: KitchenDialogue
+  m_EditorClassIdentifier: 
+  npcName: Mom
+  npcName2: Dad
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - "You\u2019re not just saying that so you can get out of school are you?"
+  - You know, I used to hate going to school so much when I was your age. Every time
+    my parents made me go, I would get stomach aches and headaches.
+  - Yeah, it got to a really bad point too.
+  - 'Do you ever get stomach aches at school?
+
+'
+  - What about headaches, do you ever get those at school?
+  - "Just wanted to check in and ask. I was able to overcome that as I got older,
+    with a little help. I know you\u2019ll be okay, Adam. Just hang in there.\r"
+  - You better get to bed kid. Got a big day ahead of you tomorrow.
+  - Goodnight, Adam.
+  playerDialogue:
+  - "I think I have a stomachache from eating too much\u2026. The food was just so
+    good!"
+  - Really?
+  - Yes, pretty often
+  - Sometimes...
+  - No, not really
+  - Yes, pretty often
+  - Sometimes
+  - No, not really
+  - " I\u2019ll take your word for it."
+  - "You\u2019re right. Goodnight Mom, goodnight Dad.\r"
+  - "Hmmm. I wonder how tomorrow will be\u2026"

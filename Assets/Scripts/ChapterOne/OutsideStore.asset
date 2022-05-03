@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: OutsideStore
+  m_EditorClassIdentifier: 
+  npcName: Mom
+  npcName2: Becca Duncan
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - "Adam! Sorry honey, we rushed outside when we saw Tommy\u2019s mother out here!
+    I didn\u2019t even realize how much time had gone by."
+  - "Adam! Look at you, you\u2019re so grown up now!\r\n"
+  - "Aren\u2019t you excited about your sleepover with Tommy next weekend honey?\r\n"
+  - "We\u2019ll prepare the guest room downstairs so that you can have a room to
+    yourself! The other rooms are upstairs, so it\u2019ll be nice and quiet for you."
+  - Alright, we should probably finish shopping and hurry home. It was nice running
+    into you, Becca!
+  - See you soon! Take care!
+  playerDialogue:
+  - Mom? Dad?
+  - Nice to see you again, Ms. Duncan.
+  - Yeah, it will be nice to see him again.
+  - "*Thinking to himself* I\u2019ll be sleeping downstairs by myself? "
+  - I usually worry about sleeping alone, even when I do.
+  - Sometimes I worry about sleeping alone.
+  - I never really worry about sleeping alone.
+  - "It is nice that they\u2019d let me sleep in there though."

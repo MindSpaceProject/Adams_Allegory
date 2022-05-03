@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: StacyCafe
+  m_EditorClassIdentifier: 
+  npcName: Stacy
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - Adam! Of course not, you can sit there.
+  - "The school dance that\u2019s happening on Friday! I\u2019m so excited! You\u2019re
+    going, right!?"
+  - "Oh no! I can't imagine how embarrassing that must've been for you. If that were
+    me, I\u2019d be thinking about it for weeks after it happened."
+  - Haha, sorry. I just tend to worry about things that have already happened a lot.
+  - " I do it all the time. My Dad always says I\u2019m a huge worrier.\r"
+  - " Yeah. I worry about a lot of things all the time.\r"
+  - Would you consider yourself a worrier?
+  - "Anyway, I\u2019m sure you won't trip over your feet this time around. You should
+    go to the dance.\r"
+  - "Definitely. So, it sounds like you\u2019re going?"
+  - Great! I hope you have a lot of fun there!
+  playerDialogue:
+  - 'I think Stacy has this same lunch period. I could go talk to her. '
+  - "Hey! This seat isn\u2019t taken, is it?"
+  - What were you thinking about? You were smiling :)
+  - Last time I went to a dance, I tripped over my own two feet.
+  - "Thanks\u2026that makes me feel a lot better\u2026"
+  - I usually worry about things that have already happened, too.
+  - Sometimes I worry about things that have already happened.
+  - I don't tend to worry about things that have already happened.
+  - Really?
+  - Yes, I worry a lot.
+  - Maybe? I worry sometimes.
+  - "No, I don\u2019t worry that often."
+  - "A school dance would be a good opportunity to make some more friends\u2026"
+  - I guess I will go.
+  - Haha, I hope so too.

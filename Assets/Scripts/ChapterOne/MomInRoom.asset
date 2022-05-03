@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: MomInRoom
+  m_EditorClassIdentifier: 
+  npcName: Mom
+  playerName: Adam
+  dialogue:
+  - Hmm, you sure you're not gonna get scared and run away like you used to?
+  - Well, I'm glad that you're so excited! But honey, I actually came in to let you
+    know that your father and I will be heading out for a bit.
+  - We need to get some things from the grocery store.
+  - "Are you afraid of being alone in the house?\r"
+  - 'You know what, it would be nice for you to learn your way around the neighborhood.
+    You can come with us.
+
+'
+  - "Let\u2019s head to the grocery store now."
+  playerDialogue:
+  - "Sheesh mom, where did you even come from?! Also, that was years ago, but\u2026"
+  - I do get a little scared if I sleep away from home...
+  - Sometimes I do get scared if I sleep away from home.
+  - I never get scared about sleeping away from home now!
+  - "But regardless, chilling with Tommy was always fun!\r"
+  - "Where are you going?\r"
+  - "*Thinking to himself* They\u2019re going somewhere without me?"
+  - I usually follow them wherever they go.
+  - "Sometimes I follow them wherever they go\u2026\r\n"
+  - "I\u2019m fine with them going places without me."
+  - "Yes, I\u2019m usually afraid to be home alone."
+  - "Sometimes\u2026."
+  - "No, I\u2019m not afraid to be home alone."
+  - "Okay, that\u2019s cool."
+  - " I talked to Tommy on the phone last night and he invited me over for a sleepover
+    next weekend. I haven\u2019t seen him since we were young."

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: Teddy
+  m_EditorClassIdentifier: 
+  npcName: Teddy
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - You okay boy? What are you doing in this park so late?
+  - "My name is Teddy. I\u2019m part of the neighborhood watch. I patrol this area
+    every other night. "
+  - What happened Adam?
+  - Hmmm....interesting.
+  - Hey kid, do people ever tell you that you look nervous?
+  - "You mentioned that you felt like you were choking and throwing up. Do you usually
+    feel like you\u2019re choking when you\u2019re scared?"
+  - "How about throwing up? Do you feel nauseous when you\u2019re scared?"
+  - 'Adam, it sounds like you had a panic attack. '
+  - "I\u2019ve been in this area all night, and I didn\u2019t hear any strange noises.
+    It was probably all in your head."
+  - I had a couple panic attacks when I was younger. They would usually be triggered
+    by my own fear, I would feel like I was going crazy.
+  - "Yup, a lot of the time when I was scared, there was no pinpoint reason, it just\u2026happened.
+    Which seems to have been the case for you tonight."
+  - For me, the panic attacks would occur every couple of weeks, and I thought I
+    was losing my mind. My parents saw how I was struggling and took me to the doctor
+    for help.
+  - "I don\u2019t know what sparked your panic attack. Could be because you were
+    walking home alone at night, or it could have been you overthinking about something
+    and getting anxious. "
+  - But make sure you tell your parents about what happened.
+  - "Alright, I\u2019ll walk you home now. "
+  - No problem kid. Just be careful out there, especially at night.
+  playerDialogue:
+  - '*Thinking to himself* After what felt like an eternity, my breathing had slowed
+    down. I could finally let go of all the fear and racing thoughts..'
+  - "Who\u2026who are you?"
+  - 'Oh. My name is Adam. My family and I just moved here last week. '
+  - I...I feel so drained and exhausted.
+  - 'Adam explains what happened and the different feelings he experienced. '
+  - Yes
+  - Sometimes
+  - No
+  - A panic attack?
+  - "I get those often. I\u2019m afraid of having panic attacks."
+  - "Sometimes I get those and I\u2019m afraid of having them."
+  - "I don\u2019t have those often and I'm usually not worried about having one."
+  - "That\u2019s exactly how it felt for me tonight."
+  - "*Thinking to himself* Going crazy huh\u2026"
+  - "When I get scared, I usually feel like I\u2019m going crazy."
+  - Sometimes I feel like that.
+  - "I never feel like I\u2019m going crazy when I\u2019m scared."
+  - I usually get really frightened for no reason at all.
+  - Sometimes I get really frightened for no reason at all.
+  - This usually doesn't happen to me.
+  - "I\u2019m glad that you were able to get the help that you needed."
+  - "Okay, I will. Thank you.\r"
+  - Thanks for the help, Teddy.
+  - "Don\u2019t worry, I don\u2019t think I\u2019ll be walking at night by myself
+    anytime soon..."

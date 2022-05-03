@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: MomDance
+  m_EditorClassIdentifier: 
+  npcName: Mom
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - Are you excited for the dance, honey?
+  - "I understand. You know, I used to get really nervous when going to places where
+    there would be people I didn\u2019t know well."
+  - Parties, school dances, or any social event really.
+  - "Well, that\u2019s how I am now. I love talking to new people! But when I was
+    younger, I was extremely shy!"
+  - "I feel like this is going to be a great chance for you to make some friends,
+    Adam. \r"
+  - " It looks like you\u2019re ready to go. I hope you\u2019re okay with walking
+    over there. Your dad has the car now, but should be back before the dance is
+    over."
+  - Okay honey, be safe!
+  playerDialogue:
+  - 'The next few days went by fairly quickly. It is now Friday afternoon.
+
+    Adam
+    is about to head to the dance.
+
+'
+  - "The school dance is tonight. I won\u2019t really know anyone there other than
+    Tommy and Stacy\u2026"
+  - "I don't like to be around people I don\u2019t know well."
+  - "Sometimes I don\u2019t like to be around people I don\u2019t know well."
+  - "I don\u2019t mind being around people I don\u2019t know well at all!"
+  - "Hopefully it won\u2019t be too bad."
+  - Yeah!
+  - Nope
+  - I mean, I guess?
+  - " I still don\u2019t have that many friends at school, so I won\u2019t really
+    know anyone."
+  - '*thinking to himself* Hmmm...'
+  - "I usually feel nervous going to social events where there will be people I don\u2019t
+    know well"
+  - Sometimes I feel like that too.
+  - "I don\u2019t really get nervous in those situations. "
+  - "I\u2019m surprised to hear that. I\u2019ve always seen you being really social
+    around others."
+  - "I\u2019m shy too."
+  - Sometimes I get shy.
+  - "I\u2019m not a shy person."
+  - "Yeah, that\u2019s what I was thinking!"
+  - "I don\u2019t mind walking. And since Tommy will be there, I could walk home
+    with him too."
+  - Got it, see you later Mom!

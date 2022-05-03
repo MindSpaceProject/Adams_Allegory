@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: WalkSchoolTommy
+  m_EditorClassIdentifier: 
+  npcName: Tommy
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - "Yeah! It\u2019s crazy how we ended up getting reunited after all these years.
+    In Iowa, of all places."
+  - Yeah, my Dad got me a new game console for my birthday. We can play with that
+    when you come through!
+  - Oh right, you must be really nervous too.
+  - Are you usually a nervous person?
+  - "I wouldn\u2019t be too nervous if I were you. Your personality is great. I\u2019m
+    sure everyone will want to be your friend!"
+  - "There\u2019s also a lot of different school clubs you could join to meet new
+    people."
+  - "No problem Adam! Good luck today and let me know if you need anything. Now let\u2019s
+    keep moving so we\u2019re not late!"
+  playerDialogue:
+  - "Man, it\u2019s been so great catching up with you, Tommy!"
+  - "Haha, I know right. I\u2019m just glad to have a friend here already. And I\u2019m
+    excited for our sleepover on Saturday."
+  - That sounds great!
+  - "*Sighs* Wow, for a second I forgot that we\u2019re on our way to school."
+  - "Yes, I\u2019m a nervous person."
+  - Sometimes I can be a nervous person.
+  - "I\u2019m not really a nervous person."
+  - 'Thanks, Tommy. '

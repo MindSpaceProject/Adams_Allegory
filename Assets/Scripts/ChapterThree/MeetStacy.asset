@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: MeetStacy
+  m_EditorClassIdentifier: 
+  npcName: Stacy
+  npcName2: 
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - You must be Adam!
+  - Stacy.
+  - "Well, I\u2019m trying to think of a school club to sign up for. My Dad has been
+    putting a lot of pressure on me about it. But I don\u2019t even know what I\u2019m
+    interested in."
+  - Tommy is right! I was thinking of joining the drama club because it sounds fun.
+    But my Dad says I should think deeper about my future and pick a club that will
+    help me achieve my goals.
+  - Not really. I usually start getting nervous when I think about the future, so
+    I just avoid thinking about it.
+  - "Do you ever worry about what is going to happen in the future?\r"
+  - "You\u2019re right, thanks Adam! It was nice meeting you!"
+  playerDialogue:
+  - "Yep, the new kid! What\u2019s your name?"
+  - Nice to meet you, Stacy. What are you up to?
+  - "That\u2019s understandable. My friend Tommy told me there\u2019s a lot of different
+    clubs here to choose from."
+  - Do you even know what you want to do in the future?
+  - All the time...
+  - Sometimes...
+  - Not really.
+  - "But don\u2019t stress it too much. We\u2019ll be okay. Try going for the Drama
+    club, and if you don\u2019t like it, you can try something else."
+  - It was cool meeting you too! See you later!
+  - '*Thinking to himself* I should probably head to gym class now.'

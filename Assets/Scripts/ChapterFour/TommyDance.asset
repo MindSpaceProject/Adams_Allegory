@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7c147231b4edf44b88d6ef18e7f2455, type: 3}
+  m_Name: TommyDance
+  m_EditorClassIdentifier: 
+  npcName: Tommy
+  npcName2: Stacy
+  npcName3: 
+  playerName: Adam
+  dialogue:
+  - Adam, you made it!
+  - "That\u2019s right, you haven\u2019t really made that many new friends yet."
+  - Well then, this is the perfect opportunity to branch out.
+  - "Is it hard for you to talk to people you don\u2019t know that well?"
+  - "My friend Josh is here. You could start out by talking to him. He\u2019s super
+    cool and easy to talk to!\r"
+  - Adam, you actually came!
+  - "Haven\u2019t tripped over your own feet yet, have you?"
+  - " You should start us off! I\u2019d love to see you dance."
+  - "That\u2019s a great idea, Stacy!"
+  - "Adam, do you ever feel nervous when other people watch you while you\u2019re
+    doing something, like dancing or playing a sport?"
+  - You're the new kid. It would be awesome if you were the first one to start dancing!
+    Show us what you got!
+  - Dude, that was awesome!
+  - Hey, I see Josh on the other side of the gym. You should go talk to him! He's
+    the one with the purple hair.
+  - Bye! Good luck!
+  playerDialogue:
+  - "Hey Tommy, I\u2019m glad you\u2019re here. I barely know anyone else."
+  - "I did become friends with Stacy, but I don\u2019t see her here yet."
+  - Yes, it is!
+  - "Sometimes\u2026"
+  - No, not at all.
+  - "Okay, I\u2019ll do that."
+  - ' Hey Stacy! And yeah, I thought it would be cool.'
+  - No, thankfully. It seems like no one is really dancing yet anyway.
+  - Me? Dance?
+  - Yeah, all the time
+  - Sometimes I feel nervous about it
+  - "No, I don\u2019t feel nervous in those situations."
+  - Okay, sounds good. See you later Tommy! Bye Stacy!
