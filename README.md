@@ -24,8 +24,12 @@ Because our development is done in Unity, we have decided to utilize Unity Colla
 Here is the link to the installer file for the finished game:
 https://drive.google.com/file/d/173l5KzLk1D7s78o9D6FUhnQoA3E60bDg/view?usp=sharing
 
-## Gameplay video
-// TODO: Insert gameplay youtube video link here
+## Demo videos
+Here is the link for our demo video:
+https://drive.google.com/file/d/1BsIKyQPWErliCkH0V5xG94g64TPITduK/view?usp=sharing
+
+Senior Project Expo Video:
+https://youtu.be/WqG2QZG8qJk
 
 ## Future Items
 Future implementation includes voice-overs for dialogue and developing additional games for smaller age groups.
